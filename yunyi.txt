@@ -1,0 +1,1 @@
+https://service-6tjm1nze.trafficmanager.net/sub?target=clash&url=https://yysub.trafficmanager.net/link/bCG6KeYD87MnDjoA?sub=2&udp=true&extend=1
